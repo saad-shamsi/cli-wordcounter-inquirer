@@ -1,5 +1,11 @@
 # nodejs-typescript-cli-template
 
+## 1.0.1
+
+### Patch Changes
+
+- [`e5834af`](https://github.com/saad-shamsi/cli-wordcounter-inquirer/commit/e5834af9f7ea70cf761d52734842ff12bae1379e) Thanks [@saad-shamsi](https://github.com/saad-shamsi)! - fixed
+
 ## 1.0.0
 
 ### Major Changes
