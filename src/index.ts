@@ -1,12 +1,7 @@
 #!/usr/bin/env node
 
-import { input } from "@inquirer/prompts";
-import { beautifyName } from "./utils/beautifyName.js";
-import { inputQuestions } from "./questions/input.js";
+import welcome from "./utils/welcome.js";
+import wordCounter from "./wordounter.js";
 
-const name = await input(inputQuestions[0]);
-
-console.log(`Hello, ${beautifyName(name)}!`);
-
-process.exit();
-
+await welcome();
+await wordCounter();
