@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-typescript-cli-template",
+  "name": "cli-wordcounter-inquirer",
   "version": "1.0.0",
   "description": "Node.js TypeScript CLI Template for building command-line applications.",
   "keywords": [
